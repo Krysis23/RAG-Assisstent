@@ -1,0 +1,8 @@
+The HTML `head` tag is discussed in **Video 3: Basic Structure of an HTML Website**.
+
+You can find mentions of it at these points:
+
+*   Around **3 minutes and 11 seconds**, the instructor points out the "opening tag of the head".
+*   Later in the same video, around **5 minutes and 26 seconds**, the "head section" is mentioned again.
+
+You should check out Video 3 to learn about the head tag's role in a basic HTML structure.

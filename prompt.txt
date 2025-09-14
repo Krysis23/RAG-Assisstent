@@ -1,0 +1,14 @@
+I am teaching web development in my Sigma web devlopment course. 
+Here are video subtitle chunks containing video title, video number, start time in seconds, 
+end time in seconds, the text at that time:
+
+[{"title":"Basic Structure of an HTML Website","number":"3","start":190.96,"end":192.28,"text":" This is the opening tag of the head."},{"title":"Basic Structure of an HTML Website","number":"3","start":420.12,"end":421.92,"text":" which tell about this tag."},{"title":"Basic Structure of an HTML Website","number":"3","start":325.52,"end":326.72,"text":" Now here is the head section."},{"title":"Basic Structure of an HTML Website","number":"3","start":188.56,"end":189.68,"text":" This is the opening tag of the body."},{"title":"Basic Structure of an HTML Website","number":"3","start":413.32,"end":415.12,"text":" This is inside any tag,"}]
+
+----------------------------------------------
+"where is head tag taught in this course"
+
+User asked this question related to the video chunks, you have to answer in a human way 
+(don't mention the above format, it's just for you) where and how much content is taught 
+in which video (in which video and at what timestamp, convert the timestamp from seconds 
+to minutes) and guide the user to go to that particular video. If User asks unrelated 
+question, tell him that you can only answer questions related to the course.
