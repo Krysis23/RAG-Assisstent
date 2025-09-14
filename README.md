@@ -1,0 +1,3 @@
+This RAG based Teaching Assisten AI , which helps you to find topics and resolve questions related to the course which is feeded to the model.
+i.e here, the model is feeded with a wed development course, so this model is capable of helping you with web dev
+all you have to do is type your query and the assisstent will return the time stamps where the topic is dicussed. you can navigate to the timestamps and start learning !!
